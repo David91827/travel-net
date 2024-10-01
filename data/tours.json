@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "台北市一日游",
+      "description": "探索台北市的热门景点。",
+      "city": "台北市",
+      "date": "2024-09-15",
+      "image": "/path/to/taipei1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "高雄市美食之旅",
+      "description": "享受高雄市的美食。",
+      "city": "高雄市",
+      "date": "2024-09-20",
+      "image": "/path/to/kaohsiung1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "台中市文化体验",
+      "description": "深入了解台中市的文化。",
+      "city": "台中市",
+      "date": "2024-10-05",
+      "image": "/path/to/taichung1.jpg"
+    }
+  ]
+  

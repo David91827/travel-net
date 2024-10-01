@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "夏季特惠",
+      "image": "/assets/images/promotion1.jpg",
+      "description": "享受夏季特惠，立減20%。"
+    },
+    {
+      "id": 2,
+      "title": "早鳥優惠",
+      "image": "/assets/images/promotion2.jpg",
+      "description": "提前預訂，享受額外10%折扣。"
+    }
+    
+  ]
+  

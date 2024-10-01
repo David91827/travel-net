@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "台北市一日遊",
+    "date": "2024-10-01",
+    "image": "https://example.com/taipei1.jpg",
+    "description": "參觀台北101，故宮博物院，夜市小吃。",
+    "category": "雙北"
+  },
+  {
+    "id": 2,
+    "title": "新北市探險之旅",
+    "date": "2024-10-05",
+    "image": "https://example.com/newtaipei1.jpg",
+    "description": "造訪九份老街，淡水漁人碼頭，台北大稻埕。",
+    "category": "雙北"
+  },
+  {
+    "id": 3,
+    "title": "桃園綠意之旅",
+    "date": "2024-10-10",
+    "image": "https://example.com/taoyuan1.jpg",
+    "description": "桃園大溪老街，拉拉山森林，湖口夜市。",
+    "category": "桃竹苗"
+  },
+  {
+    "id": 4,
+    "title": "新竹科學之旅",
+    "date": "2024-10-15",
+    "image": "https://example.com/hsinchu1.jpg",
+    "description": "參觀新竹科學工業園區，新竹市立動物園，城隍廟。",
+    "category": "桃竹苗"
+  },
+  {
+    "id": 5,
+    "title": "台中藝術之旅",
+    "date": "2024-10-20",
+    "image": "https://example.com/taichung1.jpg",
+    "description": "參觀國立台灣美術館，逢甲夜市，台中公園。",
+    "category": "中彰投"
+  },
+  {
+    "id": 6,
+    "title": "彰化古蹟之旅",
+    "date": "2024-10-25",
+    "image": "https://example.com/changhua1.jpg",
+    "description": "探索鹿港小鎮，彰化孔廟，八卦山大佛。",
+    "category": "中彰投"
+  },
+  {
+    "id": 7,
+    "title": "嘉義森林探險",
+    "date": "2024-11-01",
+    "image": "https://example.com/chiayi1.jpg",
+    "description": "參觀阿里山，嘉義博物館，檜意森活村。",
+    "category": "雲嘉南"
+  },
+  {
+    "id": 8,
+    "title": "台南歷史之旅",
+    "date": "2024-11-05",
+    "image": "https://example.com/tainan1.jpg",
+    "description": "探索台南古蹟，赤崁樓，安平古堡。",
+    "category": "雲嘉南"
+  },
+  {
+    "id": 9,
+    "title": "高雄海洋之旅",
+    "date": "2024-11-10",
+    "image": "https://example.com/kaohsiung1.jpg",
+    "description": "參觀蓮池潭，旗津，六合夜市。",
+    "category": "高屏"
+  },
+  {
+    "id": 10,
+    "title": "屏東自然探險",
+    "date": "2024-11-15",
+    "image": "https://example.com/pingtung1.jpg",
+    "description": "探索墾丁國家公園，屏東夜市，海生館。",
+    "category": "高屏"
+  },
+  {
+    "id": 11,
+    "title": "花蓮自然之旅",
+    "date": "2024-11-20",
+    "image": "https://example.com/hualien1.jpg",
+    "description": "探索太魯閣國家公園，花蓮文化創意產業園區，七星潭。",
+    "category": "宜花東"
+  },
+  {
+    "id": 12,
+    "title": "台東海岸之旅",
+    "date": "2024-11-25",
+    "image": "https://example.com/taitung1.jpg",
+    "description": "探索綠島，台東森林公園，卑南文化村。",
+    "category": "宜花東"
+  }
+]

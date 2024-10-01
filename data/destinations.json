@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "台北101",
+      "image": "/assets/images/destination1.jpg",
+      "description": "台北101是台灣的地標建築，擁有絕佳的城市景觀。"
+    },
+    {
+      "id": 2,
+      "name": "日月潭",
+      "image": "/assets/images/destination2.jpg",
+      "description": "日月潭是台灣最大的淡水湖，風景如畫。"
+    }
+    
+  ]
+  
