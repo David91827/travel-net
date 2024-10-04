@@ -12,7 +12,7 @@
         <p v-html="view.description"></p>
         <button v-if="view.website" @click="openWebsite">相關網站</button>
         </div>
-      <button @click="goToRecommendations">熱門景點</button><button @click="goBack">回上一頁</button>
+      <button @click="goBack">回上一頁</button>
     </div>
     <div v-else class="no-results">
         <h2>資料維護中</h2>
@@ -27,9 +27,9 @@ import Carousel from '../components/Carousel.vue';
 const viewData = [
   {
     id: 1,
-    images: ['/images/pic_7927_32.jpg', '/images/GMC_3130 (4) (1).jpg', '/images/台北101觀景台門票-Klook客路.jpg', '/images/35fc7ff9cef741e5681c0715b0248131.jpg'], // 确保你的数据中包含图片路径数组
+    images: ['/travel-net/images/pic_7927_32.jpg', '/travel-net/images/GMC_3130 (4) (1).jpg', '/travel-net/images/台北101觀景台門票-Klook客路.jpg', '/travel-net/images/35fc7ff9cef741e5681c0715b0248131.jpg'], // 确保你的数据中包含图片路径数组
     title: '台北101大樓',
-    descriptionFile: '/txt/關於台北101.txt',
+    descriptionFile: '/travel-net/txt/關於台北101.txt',
     location: '110台北市信義區信義路五段7號',
     hours: '每日 09:00 - 22:00',
     price: 'NT$ 600',
@@ -37,9 +37,9 @@ const viewData = [
   },
   {
     id: 2,
-    images: ['/images/20230202080741-ba2a536c.jpg', '/images/TP2_696614296.jpg', '/images/1024x768_attractions-image-spliqtzae0q8byeeqgqdfw.jpg', '/images/1024x768_attractions-image-fwfaxumoiegq42wwkiwkpg.jpg'], // 确保你的数据中包含图片路径数组
+    images: ['/travel-net/images/20230202080741-ba2a536c.jpg', '/travel-net/images/TP2_696614296.jpg', '/travel-net/images/1024x768_attractions-image-spliqtzae0q8byeeqgqdfw.jpg', '/travel-net/images/1024x768_attractions-image-fwfaxumoiegq42wwkiwkpg.jpg'], // 确保你的数据中包含图片路径数组
     title: '九份老街',
-    descriptionFile: '/txt/關於九份老街.txt',
+    descriptionFile: '/travel-net/txt/關於九份老街.txt',
     location: '新北市瑞芳區基山街',
     hours: '平日08:00 - 19:00 , 假日08:00 - 22:00',
     website: 'https://newtaipei.travel/zh-tw/attractions/detail/109990',

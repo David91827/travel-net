@@ -13,7 +13,8 @@
         <h2>活動資訊</h2>
         <div v-html="tour.information"></div>
       </div>
-<button @click="goToPackages">包裝行程</button> <button @click="goBack">回上一頁</button>
+      <button @click="goBack">回上一頁</button>
+
     </div>
     <p v-else>行程未找到</p> 
   </div>
@@ -29,7 +30,7 @@ const toursData = [
     id: 3,
     name: "台北山城之旅 ",
     date: "2024-10-05 09:30 ~ 10-6 (共2天) ",
-    image: "/images/FotoJet111.jpg",
+    image: "/travel-net/images/FotoJet111.jpg",
     description: "重要資訊",
     category: "雙北",
     location: "台北車站",
@@ -41,34 +42,34 @@ const toursData = [
     此地自由活動<br><br>
     <strong>11:30集合<br>
     地點：鼻頭角步道入口 (如右圖)</strong><br><br>
-    <img src="/images/bcb02c09-5158-4102-9630-cfd47eb7a07c.jpg" style="max-width: 40%; height: auto;margin-right:10px">
-    <img src="/images/20220520東北角行-鼻頭角步道-龍洞灣海洋公園-馬崗哨所-167.jpg" style="max-width: 40%; height: auto;"><br><br>
+    <img src="/travel-net/images/bcb02c09-5158-4102-9630-cfd47eb7a07c.jpg" style="max-width: 40%; height: auto;margin-right:10px">
+    <img src="/travel-net/images/20220520東北角行-鼻頭角步道-龍洞灣海洋公園-馬崗哨所-167.jpg" style="max-width: 40%; height: auto;"><br><br>
     <strong>12:00抵達<br>
     地點：海之星海鮮餐廳</strong><br><br>
     享用午餐<br><br>
     <strong>13:30集合<br>
     地點：餐廳門口</strong><br><br>
-    <img src="/images/3f73c4f3-ac3a-48a7-9454-7f974217bf73.jpg" style="max-width: 40%; height: auto;"><br><br>
+    <img src="/travel-net/images/3f73c4f3-ac3a-48a7-9454-7f974217bf73.jpg" style="max-width: 40%; height: auto;"><br><br>
     <strong>14:10抵達<br>
     地點：野柳地質公園</strong><br><br>
     此地自由活動<br><br>
     <strong>15:40集合<br>
     地點：野柳地質公園停車場 (如右圖)</strong><br><br>
-    <img src="/images/下載.jpg" style="max-width: 40%; height: auto;margin-right:10px">
-    <img src="/images/4.jpg" style="max-width: 40%; height: auto;"><br><br>
+    <img src="/travel-net/images/下載.jpg" style="max-width: 40%; height: auto;margin-right:10px">
+    <img src="/travel-net/images/4.jpg" style="max-width: 40%; height: auto;"><br><br>
     <strong>16:20抵達<br>
     地點：富貴角公園</strong><br><br>
     帶隊至富貴角燈塔(停留約1.5小時)<br><br>
     <strong>17:50離開</strong><br><br>
-    <img src="/images/1200px-Wongwt_富貴角燈塔_(17227480422).jpg" style="max-width: 40%; height: auto;"><br><br>
+    <img src="/travel-net/images/1200px-Wongwt_富貴角燈塔_(17227480422).jpg" style="max-width: 40%; height: auto;"><br><br>
     <strong>18:30抵達<br>
     地點：淡水老街</strong><br><br>
     此地晚餐自理，包括自由活動<br><br>
     <strong>20:30集合<br>
     地點：淡水捷運站前萊爾富 (如右圖)</strong><br><br>
-     <img src="/images/w644.jpg" style="max-width: 30%; height: auto;margin-right:10px">
-    <img src="/images/470960-Tamsui-Old-Street.jpg" style="max-width: 30%; height: auto;margin-right:10px">
-    <img src="/images/DSCF8114.jpg" style="max-width: 30%; height: auto;"><br><br>
+     <img src="/travel-net/images/w644.jpg" style="max-width: 30%; height: auto;margin-right:10px">
+    <img src="/travel-net/images/470960-Tamsui-Old-Street.jpg" style="max-width: 30%; height: auto;margin-right:10px">
+    <img src="/travel-net/images/DSCF8114.jpg" style="max-width: 30%; height: auto;"><br><br>
     <strong>21:15返回台北車站<br>
     行程結束</strong><br><br><br>
     <h2>如有興趣歡迎電話預訂！！</h2><br>

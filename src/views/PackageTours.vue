@@ -29,7 +29,7 @@ const toursData = [
     id: 1,
     title: "台北市一日遊",
     date: "2024-10-01",
-    image: "/images/FotoJet.jpg",
+    image: "/travel-net/images/FotoJet.jpg",
     description: "參觀台北101，故宮博物院，夜市小吃。",
     category: "雙北"
   },
@@ -37,7 +37,7 @@ const toursData = [
     id: 2,
     title: "台北山城之旅",
     date: "2024-11-05",
-    image: "/images/FotoJet111.jpg",
+    image: "/travel-net/images/FotoJet111.jpg",
     description: "利用2天的時間，帶你體驗台北深度之旅。",
     category: "雙北"
   },

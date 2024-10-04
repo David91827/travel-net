@@ -12,7 +12,7 @@
         <p v-html="hotel.description"></p>
         <button v-if="hotel.website" @click="openWebsite">相關網站</button>
       </div>
-      <button @click="goToAccommodation">合作民宿</button><button @click="goBack">回上一頁</button>
+      <button @click="goBack">回上一頁</button>
     </div>
     <div v-else class="no-results">
         <h2>資料維護中</h2>
@@ -28,9 +28,9 @@ import Carousel from '../components/Carousel.vue'; // 確保路徑正確
 const hotelData = [
   {
     id: 1,
-    images: ['/images/m02368_1b.jpg', '/images/GMC_3130 (4) (1).jpg',   '/images/35fc7ff9cef741e5681c0715b0248131.jpg'], // 確保包含圖片路徑
+    images: ['/travel-net/images/m02368_1b.jpg'], // 確保包含圖片路徑
     title: '天方夜譚民宿',
-    descriptionFile: '/txt/55.txt',
+    descriptionFile: '/travel-net/txt/55.txt',
     location: '224新北市瑞芳區汽車路88號',
     checkin: '14:00 ~ 20:00',
     checkout: '08:00 ~ 11:00',

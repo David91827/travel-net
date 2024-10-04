@@ -28,14 +28,14 @@ const hotelsData = [
   {
     id: 1,
     title: "天方夜譚民宿",
-    image: "/images/50c12a99_z.jpg",
+    image: "/travel-net/images/50c12a99_z.jpg",
     description: "位於九份老街旁，黃色外牆格外顯眼",
     category: "雙北"
   },
   {
     id: 2,
     title: "水筠間民宿",
-    image: "/images/9713_201510261427186481_268.jpg",
+    image: "/travel-net/images/9713_201510261427186481_268.jpg",
     description: "具樣各式各樣主題房型的民宿。",
     category: "宜花東"
   },

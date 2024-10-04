@@ -13,7 +13,7 @@ import { defineComponent } from 'vue';
 export default defineComponent({
   setup() {
     
-    const coverPhoto = 'images/螢幕擷取畫面 2024-09-06 025306.png';
+    const coverPhoto = '/travel-net/images/螢幕擷取畫面 2024-09-06 025306.png';
 
     return { coverPhoto };
   }

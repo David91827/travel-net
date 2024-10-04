@@ -15,7 +15,7 @@ const content = ref('');
 // 当组件挂载时，加载 .txt 文件内容
 onMounted(async () => {
   try {
-    const response = await fetch('/hi.txt'); // 确保路径正确
+    const response = await fetch('/travel-net/hi.txt'); // 确保路径正确
     if (!response.ok) {
       throw new Error('Network response was not ok');
     }

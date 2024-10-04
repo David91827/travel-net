@@ -27,28 +27,28 @@ const attractionsData = [
   {
     id: 1,
     title: "台北101",
-    image: "/images/pic_7927_32.jpg",
+    image: "/travel-net/images/pic_7927_32.jpg",
     description: "台北市的地標建築，擁有觀景台可俯瞰台北市區。",
     category: "雙北"
   },
   {
     id: 2,
     title: "九份老街",
-    image: "/images/20230202080741-ba2a536c.jpg",
+    image: "/travel-net/images/20230202080741-ba2a536c.jpg",
     description: "新北市的古老街道，擁有許多小吃和手工藝品。",
     category: "雙北"
   },
   {
     id: 3,
     title: "阿里山",
-    image: "/images/9fe0ea01a2bf479fafdaac07f25c5af4.jpg",
+    image: "/travel-net/images/9fe0ea01a2bf479fafdaac07f25c5af4.jpg",
     description: "嘉義縣的著名山脈，擁有壯麗的日出和雲海。",
     category: "雲嘉南"
   },
   {
     id: 4,
     title: "蓮池潭",
-    image: "/images/pic_2149_18.jpg",
+    image: "/travel-net/images/pic_2149_18.jpg",
     description: "高雄市的美麗湖泊，擁有悠閒的散步小徑和美麗的風景。",
     category: "高屏"
   },

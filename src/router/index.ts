@@ -6,7 +6,7 @@ import PackageTours from '../views/PackageTours.vue'; // 确保路径正确
 import Accommodation from '../views/Accommodation.vue'; // 确保路径正确
 import Recommendations from '../views/Recommendations.vue'; // 确保路径正确
 import Day2Detail from '../views/Day2Detail.vue';
-import ViewDetail from '../views/ViewDetail .vue';
+import ViewDetail from '../views/ViewDetail.vue';
 import HotelDetail from'../views/HotelDetail.vue';
 
 const routes = [
@@ -17,12 +17,12 @@ const routes = [
   { path: '/tours/:id', component: Day2Detail }, 
   { path: '/accommodation', component: Accommodation },
   { path: '/recommendations', component: Recommendations },
-  {path: '/view/:id',component: ViewDetail},
-  {path: '/hotel/:id',component:HotelDetail}
+  { path: '/view/:id',component: ViewDetail},
+  { path: '/hotel/:id',component:HotelDetail}
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/travel-net/'),
   routes
 });
 
